@@ -1,0 +1,15 @@
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.exe
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.deps.json
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.runtimeconfig.json
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.dll
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.pdb
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.csproj.AssemblyReference.cache
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.AssemblyInfoInputs.cache
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.AssemblyInfo.cs
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.dll
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\refint\roomCalculator.dll
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.pdb
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.genruntimeconfig.cache
+C:\Users\Kelsey & Mikael\source\repos\roomCalculator\roomCalculator\obj\Debug\net6.0\ref\roomCalculator.dll
